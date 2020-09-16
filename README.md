@@ -32,3 +32,5 @@ But I don't recommend you to do this. Because after commenting the RTB related c
 Four folders in the repository represent four control algorithms. Double-click `Main.m` in the each folder to start simulation of corresponding control algorithm. 
 
 That‘s simple~ Enjoy playing robot!!
+
+:star: Star us on GitHub — it helps!
