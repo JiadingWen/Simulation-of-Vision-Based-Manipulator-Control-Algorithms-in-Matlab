@@ -14,7 +14,7 @@ This project mainly simulates four control algorithms:
 These algorithms are applied to a virtual PUMA robot manipulator on Matlab with Robotics Toolbox.
 
 ## Requirement
-All codes have **only** been tested on 
+All codes have **Only** been tested on 
 * Windows10 1809 
 * Matlab R2018b 
 * Robotics Toolbox 10.3.1
@@ -29,6 +29,6 @@ In this project, RTB is only used to visualise the robot manipulator during simu
 But I don't recommend you to do this. Because after commenting the RTB related code, you won't be able to see a dynamic manipulator during simulation. If you can't see the manipulator, what's the fun of simulation?
 
 ## Usage
-Four folders in the repository represent four control algorithms. Double-click `Main.m` in the each folder to start simulation of corresponding control algorithms. 
+Four folders in the repository represent four control algorithms. Double-click `Main.m` in the each folder to start simulation of corresponding control algorithm. 
 
 That‘s simple~ Enjoy playing robot!!
