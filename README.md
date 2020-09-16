@@ -33,4 +33,4 @@ Four folders in the repository represent four control algorithms. Double-click `
 
 That‘s simple~ Enjoy playing robot!!
 
-:star: Star us on GitHub — it helps! ![Github stars](https://img.shields.io/github/stars/JiadingWen/01-Manipulator_Simulation.svg)
+:star: Star us on GitHub — it helps! 
