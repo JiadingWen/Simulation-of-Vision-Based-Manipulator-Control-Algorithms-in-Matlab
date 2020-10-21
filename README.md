@@ -1,32 +1,32 @@
-# Simulation of Vision-Based Control Algorithm for Robot Manipulator on Matlab
+# Simulation of Vision-Based Manipulator Control Algorithms using RoboticsToobox in Matlab
 
-|![image](https://github.com/JiadingWen/01-Manipulator_Simulation/blob/master/img/ScreenShot1.gif)|![image](https://github.com/JiadingWen/01-Manipulator_Simulation/blob/master/img/ScreenShot2.gif)|
+|![image](https://github.com/JiadingWen/Manipulator_RoboticsToolBox/blob/master/img/ScreenShot1.gif)|![image](https://github.com/JiadingWen/Manipulator_RoboticsToolBox/blob/master/img/ScreenShot2.gif)|
 | - | :-: |
 
+<center>Find target, Point target</center>
+
 ## Introduction
-This project mainly simulates four control algorithms: 
+This project mainly simulates four Manipulator control algorithms: 
 
 1. Linear Camera Space Manipulation (**LCSM**)
 2. Image-Based Visual Servo with monocular vision system (**Monocular IBVS**)
 3. Image-Based Visual Servo with binocular vision system (**Binocular IBVS**)
 4. Position-Based Visual Servo with binocular vision system (**Binocular PBVS**)
 
-These algorithms are applied to a virtual PUMA robot manipulator on Matlab with Robotics Toolbox.
+These algorithms are applied to a 6R PUMA robot manipulator using Robotics Toolbox.
 
-## Requirement
+## Prerequisites
+Before running code, make sure you have **Robotics Toolbox** installed in Matlab.
+
+> [Robotics Toolbox (RTB)](http://petercorke.com/wordpress/toolboxes/robotics-toolbox) is a useful Matlab toolbox, which provides functions related to robotics. You can click the link to download RTB and install it. 
+
 All codes have **Only** been tested on 
 * Windows10 1809 
 * Matlab R2018b 
 * Robotics Toolbox 10.3.1
 
-There is no guarantee that the codes have good compatibility in the updated version. 
-Before running code, make sure you have the Robotics Toolbox installed on Matlab.
+There is no guarantee that the codes have good compatibility in other versions. 
 
-> [Robotics Toolbox (RTB)](http://petercorke.com/wordpress/toolboxes/robotics-toolbox) is a useful Matlab toolbox, which provides functions related to robotics. You can click the link to download RTB and install it. 
-
-In this project, RTB is only used to visualise the robot manipulator during simulation. In other words, if you don not want to install RTB, you can comment all statements related to RTB in the code. It will not affect the operation of the code. 
-
-But I don't recommend you to do this. Because after commenting the RTB related code, you won't be able to see a dynamic manipulator during simulation. If you can't see the manipulator, what's the fun of simulation?
 
 ## Usage
 Four folders in the repository represent four control algorithms. Double-click `Main.m` in the each folder to start simulation of corresponding control algorithm. 
