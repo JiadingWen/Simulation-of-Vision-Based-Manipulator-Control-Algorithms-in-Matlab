@@ -5,6 +5,8 @@
 
 <p align="center">Find target, Point target</p>
 
+***
+
 ## Introduction
 This project mainly simulates four Manipulator control algorithms: 
 
@@ -29,7 +31,11 @@ There is no guarantee that the codes have good compatibility in other versions.
 
 
 ## Usage
-Four folders in the repository represent four control algorithms. Double-click `Main.m` in the each folder to start simulation of corresponding control algorithm. 
+Four folders in the repository represent four control algorithms. 
+
+Double-click `Main.m` in the each folder to start simulation of corresponding control algorithm. 
+
+***
 
 That‘s simple~ Enjoy playing robot!!
 
