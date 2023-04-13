@@ -1,6 +1,6 @@
 # Simulation of Vision-Based Manipulator Control Algorithms using RoboticsToolBox in Matlab
 
-|![image](https://github.com/JiadingWen/Simulation-of-Vision-Based-Manipulator-Control-Algorithms-in-Matlab/img/ScreenShot1.gif)|![image](https://github.com/JiadingWen/Simulation-of-Vision-Based-Manipulator-Control-Algorithms-in-Matlab/img/ScreenShot2.gif)|
+|![image](https://github.com/JiadingWen/Simulation-of-Vision-Based-Manipulator-Control-Algorithms-in-Matlab/blob/master/img/ScreenShot1.gif)|![image](https://github.com/JiadingWen/Simulation-of-Vision-Based-Manipulator-Control-Algorithms-in-Matlab/blob/master/img/ScreenShot2.gif)|
 | - | :-: |
 
 <p align="center">Find target, Point target</p>
